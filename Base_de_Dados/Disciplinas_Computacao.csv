@@ -1,0 +1,68 @@
+Seg.;Curso;PPC;DC;Disciplina;Periodo;Tipo Disc;Credito;Campus;Centro;Turno
+471;Administracao;1;0;Administracao de Sist de Informacao II;6;O;4;SS;CCJS;N
+467;Administracao;1;0;Administracao de Sist. de Informacao I;5;O;4;SS;CCJS;N
+643;Administracao;1;0;Administrcaao de Sistemas de Informacao;8;O;4;CG;CH;N
+446;Administracao;1;0;Introducao a Informatica;1;O;4;SS;CCJS;N
+3108;Agroecologia;1;0;Informatica Basica ;1;O;2;SM;CDSA;D
+4;Agronomia;1;0;Informatica;1;O;4;PL;CCTA;D
+705;Arte e Midia;1;0;Introducao a Informatica;1;O;4;CG;CH;D
+540;Ciencias Contabeis;1;0;Fundamentos de Informatica;3;O;4;SS;CCJS;N
+2979;Ciencias Sociais (Lic);1;0;Informatica Basica ;2;O;2;SM;CDSA;N
+940;Design;1;0;Computacao Grafica ;3;O;4;CG;CCT;D
+3159;Educacao do Campo (Lic);1;0;Informatica Basica ;2;O;2;SM;CDSA;D
+3687;Enfermangem;1;0;Informatica Aplicada a Saude ;4;NO;2;CT;CES;D
+3095;Eng. De Biotecnologia e Bioprocessos;1;0;Bioinformatica ;8;O;4;SM;CDSA;D
+3064;Eng. De Biotecnologia e Bioprocessos;1;0;Programacao;3;O;4;SM;CDSA;D
+618;Administracao;1;1;Gestao de Sistemas de Informacoes;8;O;4;CG;CH;N
+1053;Engenharia Agricola;1;0;Computacao Aplicada ;4;O;4;CG;CCBS;D
+1437;Engenharia Agricola;1;0;Computacao Aplicada ;4;O;4;CG;CCBS;D
+62;Engenharia Ambiental;1;0;Introducao a Informatica;1;O;4;PL;CCTA;D
+118;Engenharia de Alimentos;1;0;Introducao a Informatica;1;O;4;PL;CCTA;D
+3239;Engenharia de Biossistemas;1;0;Programacao ;4;O;4;SM;CDSA;D
+1325;Engenharia de Producao;1;0;Gestao da Informacao ;5;O;4;CG;CCT;D
+3323;Engenharia de Producao;1;0;Gestao da Informacao ;7;O;4;SM;CDSA;D
+3299;Engenharia de Producao;1;0;Programacao ;3;O;4;SM;CDSA;D
+234;Engenharia Florestal;1;0;Informatica;1;O;4;PT;CSTR;D
+282;Engenharia Florestal;1;0;Sist. De Inform. Geo Aplic. A C Florestal;8;O;4;PT;CSTR;D
+1740;Engenharia Quimica;1;0;Informatica Aplicada ;1;O;4;CG;CTRN;D
+3731;Fisica (Lic);1;0;Algoritmos e Linguagens de Programacao ;2;O;4;CT;CES;D
+3909;Fisica (Lic);1;0;Algoritmos e Linguagens de Programacao ;6;O;4;CT;CES;N
+2026;Geografia (Lic);1;0;Tecnologia e Educacao Geografica;7;O;4;CG;CH;N
+2098;Geografia (Lic);1;0;Tecnologia e Educacao Geografica;6;O;4;CG;CH;D
+3022;Gestao Publica;1;0;Informatica Basica ;2;O;2;SM;CDSA;N
+3366;Matematica (Lic);1;0;Algoritmos e Linguagens de Programacao ;5;O;4;CT;CES;D
+3506;Matematica (Lic);1;0;Algoritmos e Linguagens de Programacao ;6;O;4;CT;CES;N
+3050;Eng. De Biotecnologia e Bioprocessos;1;1;Introducao a Ciencia da Computacao ;1;O;4;SM;CDSA;D
+1093;Engenharia Civil;1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CCBS;D
+1477;Engenharia Civil;1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CCBS;D
+3220;Engenharia de Biossistemas;1;1;Introducao a Ciencia da Computacao ;1;O;4;SM;CDSA;D
+1151;Engenharia de Materiais;1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CCT;D
+1535;Engenharia de Materiais;1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CCT;D
+1210;Engenharia de Minas;0;1;Introducao a Ciencia da Computacao ;3;O;4;CG;CTRN;D
+1594;Engenharia de Minas;0;1;Introducao a Ciencia da Computacao ;3;O;4;CG;CTRN;D
+1255;Engenharia de Petroleo;1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CCT;D
+1639;Engenharia de Petroleo;1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CCT;D
+1303;Engenharia de Producao;1;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CCT;D
+1687;Engenharia de Producao;1;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CCT;D
+3287;Engenharia de Producao;1;1;Introducao a Ciencia da Computacao ;1;O;4;SM;CDSA;D
+2917;Engenharia Mecanica;1;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CCT;D
+1891;Estatistica;1;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CCT;D
+1967;Fisica (Lic);0;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CCT;D
+2360;Matematica (Bac);1;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CH;D
+2395;Matematica (Lic);1;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CCT;D
+2434;Matematica (Lic);1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CCT;N
+2511;Matematica (Lic);1;1;Introducao a Ciencia da Computacao ;1;O;4;CG;CCT;D
+4337;Matematica (Lic);1;1;Introducao a Ciencia da Computacao ;3;O;4;CZ;CFP;D
+2467;Meteorologia;1;1;Introducao a Ciencia da Computacao ;2;O;4;CG;CTRN;D
+3344;Matematica (Lic);1;0;Informatica Aplicada ao Ensino ;1;O;4;CT;CES;D
+3484;Matematica (Lic);1;0;Informatica Aplicada ao Ensino ;1;O;4;CT;CES;N
+4326;Matematica (Lic);1;0;Informatica no Ensino de Matematica ;1;O;4;CZ;CFP;D
+2550;Mediciana;1;0;Metodologia Cientifica e Inform. Medica ;2;O;2;CG;CCBS;D
+173;Engenharia Civil;1;1;Introducao a Programacao;1;O;4;PL;CCTA;D
+1824;Engenharia Eletrica;1;1;Introducao a Programacao;1;O;NA;CG;CEEI;D
+302;Medicina Veterinaria;1;0;Informatica;2;O;3;PT;CSTR;D
+3382;Nutricao;1;0;Informatica Aplicada a Saude ;1;O;2;CT;CES;D
+3523;Nutricao;1;0;Informatica Aplicada a Saude ;1;O;2;CT;CES;N
+3443;Quimica (Lic);1;0;Informatica Aplicada ao Ensino ;2;O;4;CT;CES;D
+3584;Quimica (Lic);1;0;Informatica Aplicada ao Ensino ;2;O;4;CT;CES;N
+1831;Engenharia Eletrica;1;1;Tecnicas de Programacao ;2;O;NA;CG;CEEI;D
